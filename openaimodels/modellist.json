@@ -111,6 +111,13 @@
         "context_window": "16,385 tokens",
         "training_data": "Up to Sep 2021",
         "category": "GPT-3.5 Turbo"
+      },
+      {
+        "name": "text-embedding-ada-002",
+        "description": "Embedding snaphot",
+        "context_window": "",
+        "training_data": "",
+        "category": ""
       }
     ]
   }
