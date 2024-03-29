@@ -118,6 +118,13 @@
         "context_window": "",
         "training_data": "",
         "category": ""
+      },
+      {
+        "name": "whisper-1",
+        "description": "speech to text",
+        "context_window": "",
+        "training_data": "",
+        "category": "whisper"
       }
     ]
   }
