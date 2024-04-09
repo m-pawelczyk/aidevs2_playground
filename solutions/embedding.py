@@ -19,3 +19,4 @@ def get_answer(task_details_response: dict):
     logger.info(f"OpenAI Response for embedding { task_response.data[0].embedding }")
 
     return task_response.data[0].embedding
+    
